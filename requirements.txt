@@ -1,0 +1,15 @@
+streamlit
+google-generativeai
+logging
+configparser
+toml
+os
+typing
+time
+json
+re
+xml
+streamlit
+google-generativeai
+configparser
+toml
