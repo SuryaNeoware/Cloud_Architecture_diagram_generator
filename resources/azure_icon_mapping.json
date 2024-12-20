@@ -1,0 +1,1799 @@
+{
+    "Azure Batch AI": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/00028-icon-service-Batch-AI.svg"
+    ],
+    "Azure Machine Learning Studio (Classic) Web Services": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/00030-icon-service-Machine-Learning-Studio-%28Classic%29-Web-Services.svg"
+    ],
+    "Azure Genomics": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/00031-icon-service-Genomics.svg"
+    ],
+    "Azure Computer Vision": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/00792-icon-service-Computer-Vision.svg"
+    ],
+    "Azure Custom Vision": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/00793-icon-service-Custom-Vision.svg"
+    ],
+    "Azure Face APIs": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/00794-icon-service-Face-APIs.svg"
+    ],
+    "Azure Content Moderators": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/00795-icon-service-Content-Moderators.svg"
+    ],
+    "Azure Personalizers": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/00796-icon-service-Personalizers.svg"
+    ],
+    "Azure Speech Services": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/00797-icon-service-Speech-Services.svg"
+    ],
+    "Azure QnA Makers": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/00799-icon-service-QnA-Makers.svg"
+    ],
+    "Azure Translator Text": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/00800-icon-service-Translator-Text.svg"
+    ],
+    "Azure Language Understanding": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/00801-icon-service-Language-Understanding.svg"
+    ],
+    "Azure Immersive Readers": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/00812-icon-service-Immersive-Readers.svg"
+    ],
+    "Azure Anomaly Detector": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/00814-icon-service-Anomaly-Detector.svg"
+    ],
+    "Azure Form Recognizers": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/00819-icon-service-Form-Recognizers.svg"
+    ],
+    "Azure Azure Experimentation Studio": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/01239-icon-service-Azure-Experimentation-Studio.svg"
+    ],
+    "Azure Azure Object Understanding": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/01688-icon-service-Azure-Object-Understanding.svg"
+    ],
+    "Azure Metrics Advisor": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/02409-icon-service-Metrics-Advisor.svg"
+    ],
+    "Azure Azure Applied AI Services": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/02749-icon-service-Azure-Applied-AI-Services.svg"
+    ],
+    "Azure Language": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/02876-icon-service-Language.svg"
+    ],
+    "Azure Cognitive Services Decisions": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/03173-icon-service-Cognitive-Services-Decisions.svg"
+    ],
+    "Azure Serverless Search": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/03321-icon-service-Serverless-Search.svg"
+    ],
+    "Azure Bonsai": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/03337-icon-service-Bonsai.svg"
+    ],
+    "Azure Content Safety": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/03390-icon-service-Content-Safety.svg"
+    ],
+    "Azure Azure OpenAI": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/03438-icon-service-Azure-OpenAI.svg"
+    ],
+    "Azure AI Studio": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/03513-icon-service-AI-Studio.svg"
+    ],
+    "Azure Cognitive Search": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/web/10044-icon-service-Cognitive-Search.svg"
+    ],
+    "Azure Cognitive Services": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/web/10162-icon-service-Cognitive-Services.svg"
+    ],
+    "Azure Genomics Accounts": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/10164-icon-service-Genomics-Accounts.svg"
+    ],
+    "Azure Bot Services": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/10165-icon-service-Bot-Services.svg"
+    ],
+    "Azure Machine Learning": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/ai%20%2B%20machine%20learning/10166-icon-service-Machine-Learning.svg"
+    ],
+    "Azure Machine Learning Studio Workspaces": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/10167-icon-service-Machine-Learning-Studio-Workspaces.svg"
+    ],
+    "Azure Machine Learning Studio Web Service Plans": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/10168-icon-service-Machine-Learning-Studio-Web-Service-Plans.svg"
+    ],
+    "Azure Log Analytics Workspaces": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/monitor/00009-icon-service-Log-Analytics-Workspaces.svg"
+    ],
+    "Azure Event Hubs": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/00039-icon-service-Event-Hubs.svg"
+    ],
+    "Azure Stream Analytics Jobs": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/00042-icon-service-Stream-Analytics-Jobs.svg"
+    ],
+    "Azure Endpoint Analytics": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/analytics/00562-icon-service-Endpoint-Analytics.svg"
+    ],
+    "Azure Azure Synapse Analytics": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/databases/00606-icon-service-Azure-Synapse-Analytics.svg"
+    ],
+    "Azure Azure Workbooks": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/monitor/02189-icon-service-Azure-Workbooks.svg"
+    ],
+    "Azure Private Link Services": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/02209-icon-service-Private-Link-Services.svg"
+    ],
+    "Azure Power BI Embedded": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/analytics/03332-icon-service-Power-BI-Embedded.svg"
+    ],
+    "Azure Power Platform": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/web/03335-icon-service-Power-Platform.svg"
+    ],
+    "Azure Data Factories": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/integration/10126-icon-service-Data-Factories.svg"
+    ],
+    "Azure HD Insight Clusters": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/analytics/10142-icon-service-HD-Insight-Clusters.svg"
+    ],
+    "Azure Data Lake Analytics": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/analytics/10143-icon-service-Data-Lake-Analytics.svg"
+    ],
+    "Azure Azure Data Explorer Clusters": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/databases/10145-icon-service-Azure-Data-Explorer-Clusters.svg"
+    ],
+    "Azure Analysis Services": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/analytics/10148-icon-service-Analysis-Services.svg"
+    ],
+    "Azure Event Hub Clusters": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/10149-icon-service-Event-Hub-Clusters.svg"
+    ],
+    "Azure Data Lake Store Gen1": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/analytics/10150-icon-service-Data-Lake-Store-Gen1.svg"
+    ],
+    "Azure Azure Databricks": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/analytics/10787-icon-service-Azure-Databricks.svg"
+    ],
+    "Azure App Service Plans": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/web/00046-icon-service-App-Service-Plans.svg"
+    ],
+    "Azure App Service Certificates": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/web/00049-icon-service-App-Service-Certificates.svg"
+    ],
+    "Azure App Service Domains": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/web/00050-icon-service-App-Service-Domains.svg"
+    ],
+    "Azure CDN Profiles": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/00056-icon-service-CDN-Profiles.svg"
+    ],
+    "Azure App Services": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/web/10035-icon-service-App-Services.svg"
+    ],
+    "Azure Notification Hubs": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/mobile/10045-icon-service-Notification-Hubs.svg"
+    ],
+    "Azure App Service Environments": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/web/10047-icon-service-App-Service-Environments.svg"
+    ],
+    "Azure Collaborative Service": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/azure%20ecosystem/01038-icon-service-Collaborative-Service.svg"
+    ],
+    "Azure Applens": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/azure%20ecosystem/02354-icon-service-Applens.svg"
+    ],
+    "Azure Azure Hybrid Center": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/azure%20ecosystem/02573-icon-service-Azure-Hybrid-Center.svg"
+    ],
+    "Azure Multi Tenancy": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/azure%20stack/00965-icon-service-Multi-Tenancy.svg"
+    ],
+    "Azure Infrastructure Backup": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/azure%20stack/10108-icon-service-Infrastructure-Backup.svg"
+    ],
+    "Azure Capacity": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/azure%20stack/10109-icon-service-Capacity.svg"
+    ],
+    "Azure Offers": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/azure%20stack/10110-icon-service-Offers.svg"
+    ],
+    "Azure User Subscriptions": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/azure%20stack/10111-icon-service-User-Subscriptions.svg"
+    ],
+    "Azure Plans": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/azure%20stack/10113-icon-service-Plans.svg"
+    ],
+    "Azure Updates": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/azure%20stack/10115-icon-service-Updates.svg"
+    ],
+    "Azure Blockchain Applications": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/blockchain/10210-icon-service-Blockchain-Applications.svg"
+    ],
+    "Azure Outbound Connection": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/blockchain/10364-icon-service-Outbound-Connection.svg"
+    ],
+    "Azure Azure Blockchain Service": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/blockchain/10366-icon-service-Azure-Blockchain-Service.svg"
+    ],
+    "Azure Azure Token Service": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/blockchain/10367-icon-service-Azure-Token-Service.svg"
+    ],
+    "Azure ABS Member": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/blockchain/10374-icon-service-ABS-Member.svg"
+    ],
+    "Azure Consortium": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/blockchain/10375-icon-service-Consortium.svg"
+    ],
+    "Azure Maintenance Configuration": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/00195-icon-service-Maintenance-Configuration.svg"
+    ],
+    "Azure Host Pools": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/00328-icon-service-Host-Pools.svg"
+    ],
+    "Azure Application Group": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/00329-icon-service-Application-Group.svg"
+    ],
+    "Azure Workspaces": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/00400-icon-service-Workspaces.svg"
+    ],
+    "Azure Disk Encryption Sets": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/00398-icon-service-Disk-Encryption-Sets.svg"
+    ],
+    "Azure Automanaged VM": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/02112-icon-service-Automanaged-VM.svg"
+    ],
+    "Azure Managed Service Fabric": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/02370-icon-service-Managed-Service-Fabric.svg"
+    ],
+    "Azure Image Templates": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/02634-icon-service-Image-Templates.svg"
+    ],
+    "Azure Restore Points": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/02817-icon-service-Restore-Points.svg"
+    ],
+    "Azure Restore Points Collections": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/02818-icon-service-Restore-Points-Collections.svg"
+    ],
+    "Azure Azure Compute Galleries": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02864-icon-service-Azure-Compute-Galleries.svg"
+    ],
+    "Azure Compute Fleet": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/03487-icon-service-Compute-Fleet.svg"
+    ],
+    "Azure AKS Automatic": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/03543-icon-service-AKS-Automatic.svg"
+    ],
+    "Azure Virtual Machine": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/10021-icon-service-Virtual-Machine.svg"
+    ],
+    "Azure Kubernetes Services": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/containers/10023-icon-service-Kubernetes-Services.svg"
+    ],
+    "Azure Mesh Applications": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/10024-icon-service-Mesh-Applications.svg"
+    ],
+    "Azure Availability Sets": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/10025-icon-service-Availability-Sets.svg"
+    ],
+    "Azure Disks Snapshots": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/10026-icon-service-Disks-Snapshots.svg"
+    ],
+    "Azure OS Images (Classic)": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/10027-icon-service-OS-Images-%28Classic%29.svg"
+    ],
+    "Azure Virtual Machines (Classic)": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/10028-icon-service-Virtual-Machines-%28Classic%29.svg"
+    ],
+    "Azure Function Apps": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/10029-icon-service-Function-Apps.svg"
+    ],
+    "Azure Cloud Services (Classic)": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/10030-icon-service-Cloud-Services-%28Classic%29.svg"
+    ],
+    "Azure Batch Accounts": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/containers/10031-icon-service-Batch-Accounts.svg"
+    ],
+    "Azure Disks": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/10032-icon-service-Disks.svg"
+    ],
+    "Azure Images": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/10033-icon-service-Images.svg"
+    ],
+    "Azure VM Scale Sets": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/10034-icon-service-VM-Scale-Sets.svg"
+    ],
+    "Azure Service Fabric Clusters": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/containers/10036-icon-service-Service-Fabric-Clusters.svg"
+    ],
+    "Azure Image Definitions": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/10037-icon-service-Image-Definitions.svg"
+    ],
+    "Azure Image Versions": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/10038-icon-service-Image-Versions.svg"
+    ],
+    "Azure Shared Image Galleries": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/10039-icon-service-Shared-Image-Galleries.svg"
+    ],
+    "Azure VM Images (Classic)": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/10040-icon-service-VM-Images-%28Classic%29.svg"
+    ],
+    "Azure Disks (Classic)": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/10041-icon-service-Disks-%28Classic%29.svg"
+    ],
+    "Azure Container Services (Deprecated)": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/10049-icon-service-Container-Services-%28Deprecated%29.svg"
+    ],
+    "Azure Container Instances": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/containers/10104-icon-service-Container-Instances.svg"
+    ],
+    "Azure Host Groups": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/10346-icon-service-Host-Groups.svg"
+    ],
+    "Azure Hosts": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/compute/10347-icon-service-Hosts.svg"
+    ],
+    "Azure Azure Spring Apps": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/web/10370-icon-service-Azure-Spring-Apps.svg"
+    ],
+    "Azure Azure Red Hat OpenShift": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/containers/03331-icon-service-Azure-Red-Hat-OpenShift.svg"
+    ],
+    "Azure Container Registries": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/containers/10105-icon-service-Container-Registries.svg"
+    ],
+    "Azure SQL Data Warehouses": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/integration/00036-icon-service-SQL-Data-Warehouses.svg"
+    ],
+    "Azure Azure SQL": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/databases/02390-icon-service-Azure-SQL.svg"
+    ],
+    "Azure SSIS Lift And Shift IR": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/databases/02392-icon-service-SSIS-Lift-And-Shift-IR.svg"
+    ],
+    "Azure Azure Purview Accounts": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/databases/02517-icon-service-Azure-Purview-Accounts.svg"
+    ],
+    "Azure Azure SQL Edge": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/databases/02750-icon-service-Azure-SQL-Edge.svg"
+    ],
+    "Azure Azure Database PostgreSQL Server Group": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/databases/02827-icon-service-Azure-Database-PostgreSQL-Server-Group.svg"
+    ],
+    "Azure Oracle Database": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/databases/03490-icon-service-Oracle-Database.svg"
+    ],
+    "Azure Azure Cosmos DB": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/10121-icon-service-Azure-Cosmos-DB.svg"
+    ],
+    "Azure Azure Database MySQL Server": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/databases/10122-icon-service-Azure-Database-MySQL-Server.svg"
+    ],
+    "Azure Azure Database MariaDB Server": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/databases/10123-icon-service-Azure-Database-MariaDB-Server.svg"
+    ],
+    "Azure Azure SQL VM": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/databases/10124-icon-service-Azure-SQL-VM.svg"
+    ],
+    "Azure Virtual Clusters": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/databases/10127-icon-service-Virtual-Clusters.svg"
+    ],
+    "Azure Elastic Job Agents": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/databases/10128-icon-service-Elastic-Job-Agents.svg"
+    ],
+    "Azure SQL Database": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/databases/10130-icon-service-SQL-Database.svg"
+    ],
+    "Azure Azure Database PostgreSQL Server": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/databases/10131-icon-service-Azure-Database-PostgreSQL-Server.svg"
+    ],
+    "Azure SQL Server": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/databases/10132-icon-service-SQL-Server.svg"
+    ],
+    "Azure Azure Database Migration Services": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/migration/10133-icon-service-Azure-Database-Migration-Services.svg"
+    ],
+    "Azure SQL Elastic Pools": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/databases/10134-icon-service-SQL-Elastic-Pools.svg"
+    ],
+    "Azure Managed Database": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/databases/10135-icon-service-Managed-Database.svg"
+    ],
+    "Azure SQL Managed Instance": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/databases/10136-icon-service-SQL-Managed-Instance.svg"
+    ],
+    "Azure Azure SQL Server Stretch Databases": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/integration/10137-icon-service-Azure-SQL-Server-Stretch-Databases.svg"
+    ],
+    "Azure Cache Redis": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/databases/10137-icon-service-Cache-Redis.svg"
+    ],
+    "Azure Instance Pools": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/10139-icon-service-Instance-Pools.svg"
+    ],
+    "Azure SQL Server Registries": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/databases/10351-icon-service-SQL-Server-Registries.svg"
+    ],
+    "Azure Application Insights": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/monitor/00012-icon-service-Application-Insights.svg"
+    ],
+    "Azure Change Analysis": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/monitor/00563-icon-service-Change-Analysis.svg"
+    ],
+    "Azure CloudTest": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/devops/02373-icon-service-CloudTest.svg"
+    ],
+    "Azure Load Testing": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/devops/02423-icon-service-Load-Testing.svg"
+    ],
+    "Azure Lab Accounts": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/devops/02761-icon-service-Lab-Accounts.svg"
+    ],
+    "Azure DevOps Starter": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/devops/03339-icon-service-DevOps-Starter.svg"
+    ],
+    "Azure Managed DevOps Pools": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/devops/03393-icon-service-Managed-DevOps-Pools.svg"
+    ],
+    "Azure Code Optimization": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/devops/03455-icon-service-Code-Optimization.svg"
+    ],
+    "Azure Workspace Gateway": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/devops/03623-icon-service-Workspace-Gateway.svg"
+    ],
+    "Azure API Management Services": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/web/10042-icon-service-API-Management-Services.svg"
+    ],
+    "Azure API Connections": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/web/10048-icon-service-API-Connections.svg"
+    ],
+    "Azure Azure DevOps": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/devops/10261-icon-service-Azure-DevOps.svg"
+    ],
+    "Azure DevTest Labs": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/devops/10264-icon-service-DevTest-Labs.svg"
+    ],
+    "Azure Lab Services": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/devops/10265-icon-service-Lab-Services.svg"
+    ],
+    "Azure Cost Management and Billing": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/migrate/00004-icon-service-Cost-Management-and-Billing.svg"
+    ],
+    "Azure Preview Features": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/00456-icon-service-Preview-Features.svg"
+    ],
+    "Azure All Resources": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10001-icon-service-All-Resources.svg"
+    ],
+    "Azure Subscriptions": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10002-icon-service-Subscriptions.svg"
+    ],
+    "Azure Reservations": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10003-icon-service-Reservations.svg"
+    ],
+    "Azure Service Health": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10004-icon-service-Service-Health.svg"
+    ],
+    "Azure Information": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10005-icon-service-Information.svg"
+    ],
+    "Azure Recent": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10006-icon-service-Recent.svg"
+    ],
+    "Azure Resource Groups": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10007-icon-service-Resource-Groups.svg"
+    ],
+    "Azure Marketplace": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10008-icon-service-Marketplace.svg"
+    ],
+    "Azure Templates": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10009-icon-service-Templates.svg"
+    ],
+    "Azure Quickstart Center": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10010-icon-service-Quickstart-Center.svg"
+    ],
+    "Azure Management Groups": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10011-icon-service-Management-Groups.svg"
+    ],
+    "Azure Help and Support": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10013-icon-service-Help-and-Support.svg"
+    ],
+    "Azure Tag": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10014-icon-service-Tag.svg"
+    ],
+    "Azure Dashboard": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10015-icon-service-Dashboard.svg"
+    ],
+    "Azure Free Services": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10016-icon-service-Free-Services.svg"
+    ],
+    "Azure Cost Management": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10019-icon-service-Cost-Management.svg"
+    ],
+    "Azure Marketplace Management": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10112-icon-service-Marketplace-Management.svg"
+    ],
+    "Azure Region Management": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10116-icon-service-Region-Management.svg"
+    ],
+    "Azure Troubleshoot": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10341-icon-service-Troubleshoot.svg"
+    ],
+    "Azure Resource Explorer": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10349-icon-service-Resource-Explorer.svg"
+    ],
+    "Azure Biz Talk": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10779-icon-service-Biz-Talk.svg"
+    ],
+    "Azure Blob Block": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10780-icon-service-Blob-Block.svg"
+    ],
+    "Azure Blob Page": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10781-icon-service-Blob-Page.svg"
+    ],
+    "Azure Branch": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10782-icon-service-Branch.svg"
+    ],
+    "Azure Browser": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10783-icon-service-Browser.svg"
+    ],
+    "Azure Bug": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10784-icon-service-Bug.svg"
+    ],
+    "Azure Builds": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10785-icon-service-Builds.svg"
+    ],
+    "Azure Cache": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10786-icon-service-Cache.svg"
+    ],
+    "Azure Code": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10787-icon-service-Code.svg"
+    ],
+    "Azure Commit": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10788-icon-service-Commit.svg"
+    ],
+    "Azure Controls": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10789-icon-service-Controls.svg"
+    ],
+    "Azure Controls Horizontal": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10790-icon-service-Controls-Horizontal.svg"
+    ],
+    "Azure Cost Alerts": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10791-icon-service-Cost-Alerts.svg"
+    ],
+    "Azure Cost Analysis": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10792-icon-service-Cost-Analysis.svg"
+    ],
+    "Azure Cost Budgets": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10793-icon-service-Cost-Budgets.svg"
+    ],
+    "Azure Counter": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10794-icon-service-Counter.svg"
+    ],
+    "Azure Cubes": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10795-icon-service-Cubes.svg"
+    ],
+    "Azure Dev Console": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10796-icon-service-Dev-Console.svg"
+    ],
+    "Azure Download": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10797-icon-service-Download.svg"
+    ],
+    "Azure Error": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10798-icon-service-Error.svg"
+    ],
+    "Azure Extensions": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10799-icon-service-Extensions.svg"
+    ],
+    "Azure File": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10800-icon-service-File.svg"
+    ],
+    "Azure Files": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10801-icon-service-Files.svg"
+    ],
+    "Azure Folder Blank": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10802-icon-service-Folder-Blank.svg"
+    ],
+    "Azure Folder Website": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10803-icon-service-Folder-Website.svg"
+    ],
+    "Azure FTP": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10804-icon-service-FTP.svg"
+    ],
+    "Azure Gear": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10805-icon-service-Gear.svg"
+    ],
+    "Azure Globe Error": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10807-icon-service-Globe-Error.svg"
+    ],
+    "Azure Globe Success": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10808-icon-service-Globe-Success.svg"
+    ],
+    "Azure Globe Warning": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10809-icon-service-Globe-Warning.svg"
+    ],
+    "Azure Guide": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10810-icon-service-Guide.svg"
+    ],
+    "Azure Heart": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10811-icon-service-Heart.svg"
+    ],
+    "Azure Image": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10812-icon-service-Image.svg"
+    ],
+    "Azure Input Output": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10813-icon-service-Input-Output.svg"
+    ],
+    "Azure Journey Hub": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10814-icon-service-Journey-Hub.svg"
+    ],
+    "Azure Launch Portal": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10815-icon-service-Launch-Portal.svg"
+    ],
+    "Azure Learn": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10816-icon-service-Learn.svg"
+    ],
+    "Azure Load Test": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10817-icon-service-Load-Test.svg"
+    ],
+    "Azure Location": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10818-icon-service-Location.svg"
+    ],
+    "Azure Log Streaming": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10819-icon-service-Log-Streaming.svg"
+    ],
+    "Azure Management Portal": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10820-icon-service-Management-Portal.svg"
+    ],
+    "Azure Media File": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10821-icon-service-Media-File.svg"
+    ],
+    "Azure Mobile": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10822-icon-service-Mobile.svg"
+    ],
+    "Azure Mobile Engagement": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10823-icon-service-Mobile-Engagement.svg"
+    ],
+    "Azure Power": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10824-icon-service-Power.svg"
+    ],
+    "Azure Powershell": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10825-icon-service-Powershell.svg"
+    ],
+    "Azure Power Up": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10826-icon-service-Power-Up.svg"
+    ],
+    "Azure Feature Previews": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10827-icon-service-Feature-Previews.svg"
+    ],
+    "Azure Process Explorer": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10828-icon-service-Process-Explorer.svg"
+    ],
+    "Azure Production Ready Database": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10829-icon-service-Production-Ready-Database.svg"
+    ],
+    "Azure Resource Group List": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10830-icon-service-Resource-Group-List.svg"
+    ],
+    "Azure Resource Linked": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10831-icon-service-Resource-Linked.svg"
+    ],
+    "Azure Scheduler": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10833-icon-service-Scheduler.svg"
+    ],
+    "Azure Search": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10834-icon-service-Search.svg"
+    ],
+    "Azure Server Farm": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10835-icon-service-Server-Farm.svg"
+    ],
+    "Azure SSD": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10837-icon-service-SSD.svg"
+    ],
+    "Azure Storage Azure Files": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10838-icon-service-Storage-Azure-Files.svg"
+    ],
+    "Azure Storage Container": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10839-icon-service-Storage-Container.svg"
+    ],
+    "Azure Storage Queue": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10840-icon-service-Storage-Queue.svg"
+    ],
+    "Azure Table": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10841-icon-service-Table.svg"
+    ],
+    "Azure Tags": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10842-icon-service-Tags.svg"
+    ],
+    "Azure TFS VC Repository": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10843-icon-service-TFS-VC-Repository.svg"
+    ],
+    "Azure Toolbox": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10844-icon-service-Toolbox.svg"
+    ],
+    "Azure Versions": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10845-icon-service-Versions.svg"
+    ],
+    "Azure Website Power": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10847-icon-service-Website-Power.svg"
+    ],
+    "Azure Website Staging": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10848-icon-service-Website-Staging.svg"
+    ],
+    "Azure Web Slots": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10849-icon-service-Web-Slots.svg"
+    ],
+    "Azure Web Test": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10850-icon-service-Web-Test.svg"
+    ],
+    "Azure Workbooks": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10851-icon-service-Workbooks.svg"
+    ],
+    "Azure Workflow": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10852-icon-service-Workflow.svg"
+    ],
+    "Azure Backlog": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10853-icon-service-Backlog.svg"
+    ],
+    "Azure Media": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10854-icon-service-Media.svg"
+    ],
+    "Azure Module": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10855-icon-service-Module.svg"
+    ],
+    "Azure Search Grid": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/general/10856-icon-service-Search-Grid.svg"
+    ],
+    "Azure Azure Operator 5G Core": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/hybrid%20%2B%20multicloud/03248-icon-service-Azure-Operator-5G-Core.svg"
+    ],
+    "Azure Azure Operator Nexus": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/hybrid%20%2B%20multicloud/03324-icon-service-Azure-Operator-Nexus.svg"
+    ],
+    "Azure Azure Operator Insights": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/hybrid%20%2B%20multicloud/03333-icon-service-Azure-Operator-Insights.svg"
+    ],
+    "Azure Azure Operator Service Manager": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/hybrid%20%2B%20multicloud/03334-icon-service-Azure-Operator-Service-Manager.svg"
+    ],
+    "Azure Azure Programmable Connectivity": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/hybrid%20%2B%20multicloud/03347-icon-service-Azure-Programmable-Connectivity.svg"
+    ],
+    "Azure Azure Monitor Pipeline": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/hybrid%20%2B%20multicloud/03585-icon-service-Azure-Monitor-Pipeline.svg"
+    ],
+    "Azure Security": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/00321-icon-service-Security.svg"
+    ],
+    "Azure Administrative Units": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/00919-icon-service-Administrative-Units.svg"
+    ],
+    "Azure Verifiable Credentials": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/01084-icon-service-Verifiable-Credentials.svg"
+    ],
+    "Azure Entra Privleged Identity Management": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/02251-icon-service-Entra-Privleged-Identity-Management.svg"
+    ],
+    "Azure API Proxy": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/02386-icon-service-API-Proxy.svg"
+    ],
+    "Azure Tenant Properties": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/02679-icon-service-Tenant-Properties.svg"
+    ],
+    "Azure Entra Identity Custom Roles": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/02680-icon-service-Entra-Identity-Custom-Roles.svg"
+    ],
+    "Azure Entra Identity Licenses": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02681-icon-service-Entra-Identity-Licenses.svg"
+    ],
+    "Azure Entra Connect": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/02854-icon-service-Entra-Connect.svg"
+    ],
+    "Azure Entra Verified ID": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/03143-icon-service-Entra-Verified-ID.svg"
+    ],
+    "Azure Verification As A Service": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/03225-icon-service-Verification-As-A-Service.svg"
+    ],
+    "Azure Multi Factor Authentication": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/03256-icon-service-Multi-Factor-Authentication.svg"
+    ],
+    "Azure Entra Global Secure Access": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/03309-icon-service-Entra-Global-Secure-Access.svg"
+    ],
+    "Azure External Identities": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/03338-icon-service-External-Identities.svg"
+    ],
+    "Azure Entra Private Access": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/03382-icon-service-Entra-Private-Access.svg"
+    ],
+    "Azure Entra Internet Access": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/03383-icon-service-Entra-Internet-Access.svg"
+    ],
+    "Azure Entra Connect Sync": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/03533-icon-service-Entra-Connect-Sync.svg"
+    ],
+    "Azure Entra Domain Services": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/10222-icon-service-Entra-Domain-Services.svg"
+    ],
+    "Azure Groups": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/10223-icon-service-Groups.svg"
+    ],
+    "Azure Active Directory Connect Health": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/10224-icon-service-Active-Directory-Connect-Health.svg"
+    ],
+    "Azure Entra Connect Health": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/10224-icon-service-Entra-Connect-Health.svg"
+    ],
+    "Azure Enterprise Applications": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/10225-icon-service-Enterprise-Applications.svg"
+    ],
+    "Azure Entra Managed Identities": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/10227-icon-service-Entra-Managed-Identities.svg"
+    ],
+    "Azure Managed Identities": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/10227-icon-service-Managed-Identities.svg"
+    ],
+    "Azure Azure AD B2C": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/10228-icon-service-Azure-AD-B2C.svg"
+    ],
+    "Azure Azure Information Protection": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/security/10229-icon-service-Azure-Information-Protection.svg"
+    ],
+    "Azure Users": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/10230-icon-service-Users.svg"
+    ],
+    "Azure Entra ID Protection": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/10231-icon-service-Entra-ID-Protection.svg"
+    ],
+    "Azure App Registrations": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/10232-icon-service-App-Registrations.svg"
+    ],
+    "Azure Identity Governance": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/identity/10235-icon-service-Identity-Governance.svg"
+    ],
+    "Azure Entra Identity Roles and Administrators": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/intune/10340-icon-service-Entra-Identity-Roles-and-Administrators.svg"
+    ],
+    "Azure User Settings": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/security/10433-icon-service-User-Settings.svg"
+    ],
+    "Azure Integration Service Environments": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/integration/00555-icon-service-Integration-Service-Environments.svg"
+    ],
+    "Azure Azure Databox Gateway": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/storage/00691-icon-service-Azure-Databox-Gateway.svg"
+    ],
+    "Azure Partner Topic": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/integration/02072-icon-service-Partner-Topic.svg"
+    ],
+    "Azure System Topic": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/integration/02073-icon-service-System-Topic.svg"
+    ],
+    "Azure Partner Registration": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/integration/02265-icon-service-Partner-Registration.svg"
+    ],
+    "Azure Partner Namespace": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/integration/02266-icon-service-Partner-Namespace.svg"
+    ],
+    "Azure Logic Apps": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/02631-icon-service-Logic-Apps.svg"
+    ],
+    "Azure Integration Environments": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/integration/03345-icon-service-Integration-Environments.svg"
+    ],
+    "Azure Business Process Tracking": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/integration/03637-icon-service-Business-Process-Tracking.svg"
+    ],
+    "Azure StorSimple Device Managers": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/storage/10089-icon-service-StorSimple-Device-Managers.svg"
+    ],
+    "Azure Azure Stack Edge": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/storage/10095-icon-service-Azure-Stack-Edge.svg"
+    ],
+    "Azure Event Grid Topics": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/integration/10206-icon-service-Event-Grid-Topics.svg"
+    ],
+    "Azure Relays": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/integration/10209-icon-service-Relays.svg"
+    ],
+    "Azure Azure API for FHIR": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/integration/10212-icon-service-Azure-API-for-FHIR.svg"
+    ],
+    "Azure Software as a Service": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/integration/10213-icon-service-Software-as-a-Service.svg"
+    ],
+    "Azure Event Grid Domains": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/integration/10215-icon-service-Event-Grid-Domains.svg"
+    ],
+    "Azure Azure Data Catalog": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/integration/10216-icon-service-Azure-Data-Catalog.svg"
+    ],
+    "Azure Integration Accounts": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/integration/10218-icon-service-Integration-Accounts.svg"
+    ],
+    "Azure App Configuration": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/integration/10219-icon-service-App-Configuration.svg"
+    ],
+    "Azure SendGrid Accounts": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/integration/10220-icon-service-SendGrid-Accounts.svg"
+    ],
+    "Azure Event Grid Subscriptions": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/10221-icon-service-Event-Grid-Subscriptions.svg"
+    ],
+    "Azure Logic Apps Custom Connector": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/integration/10363-icon-service-Logic-Apps-Custom-Connector.svg"
+    ],
+    "Azure Azure Service Bus": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/integration/10836-icon-service-Azure-Service-Bus.svg"
+    ],
+    "Azure Device Security Apple": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/intune/00399-icon-service-Device-Security-Apple.svg"
+    ],
+    "Azure Device Security Google": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/intune/00399-icon-service-Device-Security-Google.svg"
+    ],
+    "Azure Device Security Windows": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/intune/00399-icon-service-Device-Security-Windows.svg"
+    ],
+    "Azure Intune": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/intune/10329-icon-service-Intune.svg"
+    ],
+    "Azure eBooks": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/intune/10330-icon-service-eBooks.svg"
+    ],
+    "Azure Client Apps": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/intune/10331-icon-service-Client-Apps.svg"
+    ],
+    "Azure Devices": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/intune/10332-icon-service-Devices.svg"
+    ],
+    "Azure Device Compliance": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/intune/10333-icon-service-Device-Compliance.svg"
+    ],
+    "Azure Software Updates": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/intune/10335-icon-service-Software-Updates.svg"
+    ],
+    "Azure Security Baselines": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/intune/10336-icon-service-Security-Baselines.svg"
+    ],
+    "Azure Device Enrollment": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/intune/10337-icon-service-Device-Enrollment.svg"
+    ],
+    "Azure Device Configuration": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/intune/10338-icon-service-Device-Configuration.svg"
+    ],
+    "Azure Exchange Access": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/intune/10339-icon-service-Exchange-Access.svg"
+    ],
+    "Azure Tenant Status": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/intune/10342-icon-service-Tenant-Status.svg"
+    ],
+    "Azure Intune For Education": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/intune/10343-icon-service-Intune-For-Education.svg"
+    ],
+    "Azure Intune App Protection": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/intune/10344-icon-service-Intune-App-Protection.svg"
+    ],
+    "Azure Mindaro": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/intune/10350-icon-service-Mindaro.svg"
+    ],
+    "Azure Digital Twins": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/01030-icon-service-Digital-Twins.svg"
+    ],
+    "Azure Industrial IoT": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/02359-icon-service-Industrial-IoT.svg"
+    ],
+    "Azure Azure Stack HCI Sizer": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/03293-icon-service-Azure-Stack-HCI-Sizer.svg"
+    ],
+    "Azure Stack HCI Premium": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/03466-icon-service-Stack-HCI-Premium.svg"
+    ],
+    "Azure Azure IoT Operations": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/03485-icon-service-Azure-IoT-Operations.svg"
+    ],
+    "Azure Notification Hub Namespaces": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/web/10053-icon-service-Notification-Hub-Namespaces.svg"
+    ],
+    "Azure Azure Stack": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/10114-icon-service-Azure-Stack.svg"
+    ],
+    "Azure Time Series Insights Environments": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/10181-icon-service-Time-Series-Insights-Environments.svg"
+    ],
+    "Azure IoT Hub": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/10182-icon-service-IoT-Hub.svg"
+    ],
+    "Azure IoT Central Applications": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/10184-icon-service-IoT-Central-Applications.svg"
+    ],
+    "Azure Azure Maps Accounts": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/10185-icon-service-Azure-Maps-Accounts.svg"
+    ],
+    "Azure IoT Edge": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/10186-icon-service-IoT-Edge.svg"
+    ],
+    "Azure Time Series Insights Event Sources": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/10188-icon-service-Time-Series-Insights-Event-Sources.svg"
+    ],
+    "Azure Time Series Insights Access Policies": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/10192-icon-service-Time-Series-Insights-Access-Policies.svg"
+    ],
+    "Azure Time Series Data Sets": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/10198-icon-service-Time-Series-Data-Sets.svg"
+    ],
+    "Azure Windows10 Core Services": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/10203-icon-service-Windows10-Core-Services.svg"
+    ],
+    "Azure Device Provisioning Services": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/iot/10369-icon-service-Device-Provisioning-Services.svg"
+    ],
+    "Azure Monitor": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/monitor/00001-icon-service-Monitor.svg"
+    ],
+    "Azure Alerts": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/00002-icon-service-Alerts.svg"
+    ],
+    "Azure Advisor": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/00003-icon-service-Advisor.svg"
+    ],
+    "Azure Blueprints": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/00006-icon-service-Blueprints.svg"
+    ],
+    "Azure Activity Log": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/monitor/00007-icon-service-Activity-Log.svg"
+    ],
+    "Azure Diagnostics Settings": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/monitor/00008-icon-service-Diagnostics-Settings.svg"
+    ],
+    "Azure Scheduler Job Collections": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/00010-icon-service-Scheduler-Job-Collections.svg"
+    ],
+    "Azure Compliance": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/00011-icon-service-Compliance.svg"
+    ],
+    "Azure My Customers": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/00014-icon-service-My-Customers.svg"
+    ],
+    "Azure Recovery Services Vaults": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/storage/00017-icon-service-Recovery-Services-Vaults.svg"
+    ],
+    "Azure Metrics": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/monitor/00020-icon-service-Metrics.svg"
+    ],
+    "Azure Solutions": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/00021-icon-service-Solutions.svg"
+    ],
+    "Azure Automation Accounts": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/00022-icon-service-Automation-Accounts.svg"
+    ],
+    "Azure Operation Log (Classic)": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/00024-icon-service-Operation-Log-%28Classic%29.svg"
+    ],
+    "Azure Service Providers": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/00025-icon-service-Service-Providers.svg"
+    ],
+    "Azure Education": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/00026-icon-service-Education.svg"
+    ],
+    "Azure Service Catalog MAD": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/00027-icon-service-Service-Catalog-MAD.svg"
+    ],
+    "Azure Intune Trends": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/00408-icon-service-Intune-Trends.svg"
+    ],
+    "Azure Azure Lighthouse": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/00471-icon-service-Azure-Lighthouse.svg"
+    ],
+    "Azure Universal Print": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/00571-icon-service-Universal-Print.svg"
+    ],
+    "Azure Azure Arc": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/00756-icon-service-Azure-Arc.svg"
+    ],
+    "Azure Arc Machines": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/01710-icon-service-Arc-Machines.svg"
+    ],
+    "Azure Resources Provider": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/03366-icon-service-Resources-Provider.svg"
+    ],
+    "Azure User Privacy": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/10303-icon-service-User-Privacy.svg"
+    ],
+    "Azure Managed Desktop": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/10311-icon-service-Managed-Desktop.svg"
+    ],
+    "Azure Managed Applications Center": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/10313-icon-service-Managed-Applications-Center.svg"
+    ],
+    "Azure Customer Lockbox for Microsoft Azure": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/10314-icon-service-Customer-Lockbox-for-Microsoft-Azure.svg"
+    ],
+    "Azure Policy": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/10316-icon-service-Policy.svg"
+    ],
+    "Azure Resource Graph Explorer": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/10318-icon-service-Resource-Graph-Explorer.svg"
+    ],
+    "Azure MachinesAzureArc": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/management%20%2B%20governance/10450-icon-service-MachinesAzureArc.svg"
+    ],
+    "Azure Keys": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/menu/00787-icon-service-Keys.svg"
+    ],
+    "Azure Data Box": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/storage/10094-icon-service-Data-Box.svg"
+    ],
+    "Azure Azure Migrate": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/migrate/10281-icon-service-Azure-Migrate.svg"
+    ],
+    "Azure Remote Rendering": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/mixed%20reality/00698-icon-service-Remote-Rendering.svg"
+    ],
+    "Azure Spatial Anchor Accounts": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/mixed%20reality/10352-icon-service-Spatial-Anchor-Accounts.svg"
+    ],
+    "Azure Azure Monitors for SAP Solutions": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/monitor/00438-icon-service-Azure-Monitors-for-SAP-Solutions.svg"
+    ],
+    "Azure Network Watcher": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10066-icon-service-Network-Watcher.svg"
+    ],
+    "Azure Auto Scale": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/monitor/10832-icon-service-Auto-Scale.svg"
+    ],
+    "Azure Azure Firewall Manager": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/00271-icon-service-Azure-Firewall-Manager.svg"
+    ],
+    "Azure Azure Firewall Policy": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/00272-icon-service-Azure-Firewall-Policy.svg"
+    ],
+    "Azure Private Link": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/00427-icon-service-Private-Link.svg"
+    ],
+    "Azure IP Groups": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/00701-icon-service-IP-Groups.svg"
+    ],
+    "Azure Virtual WAN Hub": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/00860-icon-service-Virtual-WAN-Hub.svg"
+    ],
+    "Azure Private Link Service": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/01105-icon-service-Private-Link-Service.svg"
+    ],
+    "Azure Resource Management Private Link": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/02145-icon-service-Resource-Management-Private-Link.svg"
+    ],
+    "Azure Load Balancer Hub": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/02302-icon-service-Load-Balancer-Hub.svg"
+    ],
+    "Azure Bastions": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/02422-icon-service-Bastions.svg"
+    ],
+    "Azure Virtual Router": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/02496-icon-service-Virtual-Router.svg"
+    ],
+    "Azure Connected Cache": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/02509-icon-service-Connected-Cache.svg"
+    ],
+    "Azure Spot VMSS": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/02692-icon-service-Spot-VMSS.svg"
+    ],
+    "Azure Spot VM": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/02695-icon-service-Spot-VM.svg"
+    ],
+    "Azure Subnet": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/02742-icon-service-Subnet.svg"
+    ],
+    "Azure DNS Private Resolver": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/02882-icon-service-DNS-Private-Resolver.svg"
+    ],
+    "Azure Azure Communications Gateway": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/03311-icon-service-Azure-Communications-Gateway.svg"
+    ],
+    "Azure Application Gateway Containers": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/03328-icon-service-Application-Gateway-Containers.svg"
+    ],
+    "Azure DNS Security Policy": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/03368-icon-service-DNS-Security-Policy.svg"
+    ],
+    "Azure DNS Multistack": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/03459-icon-service-DNS-Multistack.svg"
+    ],
+    "Azure ATM Multistack": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/03460-icon-service-ATM-Multistack.svg"
+    ],
+    "Azure IP Address manager": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/03461-icon-service-IP-Address-manager.svg"
+    ],
+    "Azure Virtual Networks": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10061-icon-service-Virtual-Networks.svg"
+    ],
+    "Azure Load Balancers": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10062-icon-service-Load-Balancers.svg"
+    ],
+    "Azure Virtual Network Gateways": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10063-icon-service-Virtual-Network-Gateways.svg"
+    ],
+    "Azure DNS Zones": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10064-icon-service-DNS-Zones.svg"
+    ],
+    "Azure Traffic Manager Profiles": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10065-icon-service-Traffic-Manager-Profiles.svg"
+    ],
+    "Azure Network Security Groups": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10067-icon-service-Network-Security-Groups.svg"
+    ],
+    "Azure Public IP Addresses (Classic)": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10068-icon-service-Public-IP-Addresses-%28Classic%29.svg"
+    ],
+    "Azure Public IP Addresses": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10069-icon-service-Public-IP-Addresses.svg"
+    ],
+    "Azure On Premises Data Gateways": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10070-icon-service-On-Premises-Data-Gateways.svg"
+    ],
+    "Azure Route Filters": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10071-icon-service-Route-Filters.svg"
+    ],
+    "Azure DDoS Protection Plans": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10072-icon-service-DDoS-Protection-Plans.svg"
+    ],
+    "Azure Front Door and CDN Profiles": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/web/10073-icon-service-Front-Door-and-CDN-Profiles.svg"
+    ],
+    "Azure Virtual Networks (Classic)": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10075-icon-service-Virtual-Networks-%28Classic%29.svg"
+    ],
+    "Azure Application Gateways": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10076-icon-service-Application-Gateways.svg"
+    ],
+    "Azure Local Network Gateways": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/10077-icon-service-Local-Network-Gateways.svg"
+    ],
+    "Azure ExpressRoute Circuits": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10079-icon-service-ExpressRoute-Circuits.svg"
+    ],
+    "Azure Network Interfaces": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10080-icon-service-Network-Interfaces.svg"
+    ],
+    "Azure Connections": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10081-icon-service-Connections.svg"
+    ],
+    "Azure Route Tables": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10082-icon-service-Route-Tables.svg"
+    ],
+    "Azure Firewalls": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10084-icon-service-Firewalls.svg"
+    ],
+    "Azure Service Endpoint Policies": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10085-icon-service-Service-Endpoint-Policies.svg"
+    ],
+    "Azure NAT": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10310-icon-service-NAT.svg"
+    ],
+    "Azure Virtual WANs": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10353-icon-service-Virtual-WANs.svg"
+    ],
+    "Azure Web Application Firewall Policies(WAF)": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10362-icon-service-Web-Application-Firewall-Policies%28WAF%29.svg"
+    ],
+    "Azure Proximity Placement Groups": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10365-icon-service-Proximity-Placement-Groups.svg"
+    ],
+    "Azure Reserved IP Addresses (Classic)": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10371-icon-service-Reserved-IP-Addresses-%28Classic%29.svg"
+    ],
+    "Azure Public IP Prefixes": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/networking/10372-icon-service-Public-IP-Prefixes.svg"
+    ],
+    "Azure Toolchain Orchestrator": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/new%20icons/029109619-icon-service-Toolchain-Orchestrator.svg"
+    ],
+    "Azure Edge Actions": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/new%20icons/029273094-icon-service-Edge-Actions.svg"
+    ],
+    "Azure Landing Zone": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/new%20icons/029636048-icon-service-Landing-Zone.svg"
+    ],
+    "Azure external id": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/new%20icons/03425-icon-service-external-id.svg"
+    ],
+    "Azure external id modified": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/new%20icons/034251-icon-service-external-id-modified.svg"
+    ],
+    "Azure Edge Storage Accelerator": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/new%20icons/03521-icon-service-Edge-Storage-Accelerator.svg"
+    ],
+    "Azure Breeze": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/new%20icons/03633-icon-service-Breeze.svg"
+    ],
+    "Azure Azure Managed Redis": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/new%20icons/03675-icon-service-Azure-Managed-Redis.svg"
+    ],
+    "Azure AI at Edge": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/new%20icons/03687-icon-service-AI-at-Edge.svg"
+    ],
+    "Azure VPNClientWindows": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/new%20icons/03694-icon-service-VPNClientWindows.svg"
+    ],
+    "Azure Azure Virtual Desktop": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/00327-icon-service-Azure-Virtual-Desktop.svg"
+    ],
+    "Azure SSH Keys": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/00412-icon-service-SSH-Keys.svg"
+    ],
+    "Azure Internet Analyzer Profiles": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/00469-icon-service-Internet-Analyzer-Profiles.svg"
+    ],
+    "Azure Azure Cloud Shell": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/00559-icon-service-Azure-Cloud-Shell.svg"
+    ],
+    "Azure Video Analyzers": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/00712-icon-service-Video-Analyzers.svg"
+    ],
+    "Azure ExpressRoute Direct": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/00903-icon-service-ExpressRoute-Direct.svg"
+    ],
+    "Azure Cost Export": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/00913-icon-service-Cost-Export.svg"
+    ],
+    "Azure Azure Communication Services": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/00968-icon-service-Azure-Communication-Services.svg"
+    ],
+    "Azure Peering Service": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/00970-icon-service-Peering-Service.svg"
+    ],
+    "Azure Azure Network Function Manager Functions": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/01001-icon-service-Azure-Network-Function-Manager-Functions.svg"
+    ],
+    "Azure Log Analytics Query Pack": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/01085-icon-service-Log-Analytics-Query-Pack.svg"
+    ],
+    "Azure Arc Kubernetes": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/01088-icon-service-Arc-Kubernetes.svg"
+    ],
+    "Azure Azure VMware Solution": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/01219-icon-service-Azure-VMware-Solution.svg"
+    ],
+    "Azure Peerings": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/01285-icon-service-Peerings.svg"
+    ],
+    "Azure Dashboard Hub": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/01757-icon-service-Dashboard-Hub.svg"
+    ],
+    "Azure Azure Video Indexer": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/01800-icon-service-Azure-Video-Indexer.svg"
+    ],
+    "Azure AVS VM": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/01846-icon-service-AVS-VM.svg"
+    ],
+    "Azure Arc PostgreSQL ": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/01848-icon-service-Arc-PostgreSQL%20.svg"
+    ],
+    "Azure Arc SQL Managed Instance": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/01849-icon-service-Arc-SQL-Managed-Instance.svg"
+    ],
+    "Azure Arc SQL Server": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/01850-icon-service-Arc-SQL-Server.svg"
+    ],
+    "Azure Data Collection Rules": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/01857-icon-service-Data-Collection-Rules.svg"
+    ],
+    "Azure Resource Mover": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02200-icon-service-Resource-Mover.svg"
+    ],
+    "Azure Azure Chaos Studio": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02223-icon-service-Azure-Chaos-Studio.svg"
+    ],
+    "Azure Network Managers": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02237-icon-service-Network-Managers.svg"
+    ],
+    "Azure Dedicated HSM": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02322-icon-service-Dedicated-HSM.svg"
+    ],
+    "Azure Modular Data Center": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02323-icon-service-Modular-Data-Center.svg"
+    ],
+    "Azure Template Specs": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02340-icon-service-Template-Specs.svg"
+    ],
+    "Azure Arc Data services": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02356-icon-service-Arc-Data-services.svg"
+    ],
+    "Azure Azure Backup Center": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02360-icon-service-Azure-Backup-Center.svg"
+    ],
+    "Azure Backup Vault": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02361-icon-service-Backup-Vault.svg"
+    ],
+    "Azure Device Update IoT Hub": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02475-icon-service-Device-Update-IoT-Hub.svg"
+    ],
+    "Azure Fiji": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02486-icon-service-Fiji.svg"
+    ],
+    "Azure Azure Monitor Dashboard": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02488-icon-service-Azure-Monitor-Dashboard.svg"
+    ],
+    "Azure SCVMM Management Servers": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02503-icon-service-SCVMM-Management-Servers.svg"
+    ],
+    "Azure Cloud Services (extended support)": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02505-icon-service-Cloud-Services-%28extended-support%29.svg"
+    ],
+    "Azure Azure Support Center Blue": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02507-icon-service-Azure-Support-Center-Blue.svg"
+    ],
+    "Azure Web App + Database": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02515-icon-service-Web-App-%2B-Database.svg"
+    ],
+    "Azure Azure HPC Workbenches": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02518-icon-service-Azure-HPC-Workbenches.svg"
+    ],
+    "Azure Disk Pool": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02560-icon-service-Disk-Pool.svg"
+    ],
+    "Azure Bare Metal Infrastructure": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02561-icon-service-Bare-Metal-Infrastructure.svg"
+    ],
+    "Azure Connected Vehicle Platform": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02573-icon-service-Connected-Vehicle-Platform.svg"
+    ],
+    "Azure Private Endpoints": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02579-icon-service-Private-Endpoints.svg"
+    ],
+    "Azure Open Supply Chain Platform": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02602-icon-service-Open-Supply-Chain-Platform.svg"
+    ],
+    "Azure Aquila": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02625-icon-service-Aquila.svg"
+    ],
+    "Azure Reserved Capacity": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02638-icon-service-Reserved-Capacity.svg"
+    ],
+    "Azure Custom IP Prefix": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02654-icon-service-Custom-IP-Prefix.svg"
+    ],
+    "Azure FHIR Service": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02658-icon-service-FHIR-Service.svg"
+    ],
+    "Azure MedTech Service": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02660-icon-service-MedTech-Service.svg"
+    ],
+    "Azure Managed Instance Apache Cassandra": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02663-icon-service-Managed-Instance-Apache-Cassandra.svg"
+    ],
+    "Azure Confidential Ledgers": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02668-icon-service-Confidential-Ledgers.svg"
+    ],
+    "Azure Test Base": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02691-icon-service-Test-Base.svg"
+    ],
+    "Azure Azure Orbital": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02697-icon-service-Azure-Orbital.svg"
+    ],
+    "Azure Capacity Reservation Groups": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02732-icon-service-Capacity-Reservation-Groups.svg"
+    ],
+    "Azure Windows Notification Services": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02733-icon-service-Windows-Notification-Services.svg"
+    ],
+    "Azure Azure Network Function Manager": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02740-icon-service-Azure-Network-Function-Manager.svg"
+    ],
+    "Azure Mission Landing Zone": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02793-icon-service-Mission-Landing-Zone.svg"
+    ],
+    "Azure Mobile Networks": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02794-icon-service-Mobile-Networks.svg"
+    ],
+    "Azure VM App Definitions": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02805-icon-service-VM-App-Definitions.svg"
+    ],
+    "Azure VM App Versions": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02806-icon-service-VM-App-Versions.svg"
+    ],
+    "Azure Azure Edge Hardware Center": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02810-icon-service-Azure-Edge-Hardware-Center.svg"
+    ],
+    "Azure Resource Guard": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02819-icon-service-Resource-Guard.svg"
+    ],
+    "Azure Ceres": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02828-icon-service-Ceres.svg"
+    ],
+    "Azure Azurite": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02842-icon-service-Azurite.svg"
+    ],
+    "Azure Update Management Center": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02846-icon-service-Update-Management-Center.svg"
+    ],
+    "Azure Community Images": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02865-icon-service-Community-Images.svg"
+    ],
+    "Azure VM Image Version": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02866-icon-service-VM-Image-Version.svg"
+    ],
+    "Azure Savings Plans": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02880-icon-service-Savings-Plans.svg"
+    ],
+    "Azure Worker Container App": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02884-icon-service-Worker-Container-App.svg"
+    ],
+    "Azure Azure Managed Grafana": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02905-icon-service-Azure-Managed-Grafana.svg"
+    ],
+    "Azure Targets Management": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02908-icon-service-Targets-Management.svg"
+    ],
+    "Azure Storage Functions": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02909-icon-service-Storage-Functions.svg"
+    ],
+    "Azure Sonic Dash": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02922-icon-service-Sonic-Dash.svg"
+    ],
+    "Azure Compliance Center": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02931-icon-service-Compliance-Center.svg"
+    ],
+    "Azure Network Security Perimeters": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02939-icon-service-Network-Security-Perimeters.svg"
+    ],
+    "Azure Azure Load Testing": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02944-icon-service-Azure-Load-Testing.svg"
+    ],
+    "Azure Virtual Visits Builder": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02949-icon-service-Virtual-Visits-Builder.svg"
+    ],
+    "Azure Azure Quotas": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02951-icon-service-Azure-Quotas.svg"
+    ],
+    "Azure Container Apps Environments": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/02989-icon-service-Container-Apps-Environments.svg"
+    ],
+    "Azure App Compliance Automation": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03071-icon-service-App-Compliance-Automation.svg"
+    ],
+    "Azure Virtual Instance for SAP": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03089-icon-service-Virtual-Instance-for-SAP.svg"
+    ],
+    "Azure Azure Center for SAP": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03090-icon-service-Azure-Center-for-SAP.svg"
+    ],
+    "Azure Azure Storage Mover": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03091-icon-service-Azure-Storage-Mover.svg"
+    ],
+    "Azure Central Service Instance For SAP": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03092-icon-service-Central-Service-Instance-For-SAP.svg"
+    ],
+    "Azure Kubernetes Fleet Manager": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03134-icon-service-Kubernetes-Fleet-Manager.svg"
+    ],
+    "Azure Express Route Traffic Collector": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03137-icon-service-Express-Route-Traffic-Collector.svg"
+    ],
+    "Azure Database Instance For SAP": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03175-icon-service-Database-Instance-For-SAP.svg"
+    ],
+    "Azure Elastic SAN": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03190-icon-service-Elastic-SAN.svg"
+    ],
+    "Azure Microsoft Dev Box": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+    ],
+    "Azure Azure Deployment Environments": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03251-icon-service-Azure-Deployment-Environments.svg"
+    ],
+    "Azure Azure Dev Tunnels": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03308-icon-service-Azure-Dev-Tunnels.svg"
+    ],
+    "Azure Azure Sustainability": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03314-icon-service-Azure-Sustainability.svg"
+    ],
+    "Azure IcM Troubleshooting": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03361-icon-service-IcM-Troubleshooting.svg"
+    ],
+    "Azure OSConfig": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03365-icon-service-OSConfig.svg"
+    ],
+    "Azure Virtual Enclaves": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03394-icon-service-Virtual-Enclaves.svg"
+    ],
+    "Azure AKS Istio": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03399-icon-service-AKS-Istio.svg"
+    ],
+    "Azure Defender CM Local Manager": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03402-icon-service-Defender-CM-Local-Manager.svg"
+    ],
+    "Azure Defender External Management": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03403-icon-service-Defender-External-Management.svg"
+    ],
+    "Azure Defender Freezer Monitor": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03404-icon-service-Defender-Freezer-Monitor.svg"
+    ],
+    "Azure Defender Historian": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03405-icon-service-Defender-Historian.svg"
+    ],
+    "Azure Defender HMI": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03406-icon-service-Defender-HMI.svg"
+    ],
+    "Azure Defender Marquee": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03407-icon-service-Defender-Marquee.svg"
+    ],
+    "Azure Defender Robot Controller": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03408-icon-service-Defender-Robot-Controller.svg"
+    ],
+    "Azure Defender Sensor": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03409-icon-service-Defender-Sensor.svg"
+    ],
+    "Azure Defender Slot": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03410-icon-service-Defender-Slot.svg"
+    ],
+    "Azure Defender Web Guiding System": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03411-icon-service-Defender-Web-Guiding-System.svg"
+    ],
+    "Azure Defender DCS Controller": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03412-icon-service-Defender-DCS-Controller.svg"
+    ],
+    "Azure Defender Distributer Control System": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03413-icon-service-Defender-Distributer-Control-System.svg"
+    ],
+    "Azure Defender Engineering Station": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03414-icon-service-Defender-Engineering-Station.svg"
+    ],
+    "Azure Defender Industrial Packaging System": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03415-icon-service-Defender-Industrial-Packaging-System.svg"
+    ],
+    "Azure Defender Industrial Printer": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03416-icon-service-Defender-Industrial-Printer.svg"
+    ],
+    "Azure Defender Industrial Scale System": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03417-icon-service-Defender-Industrial-Scale-System.svg"
+    ],
+    "Azure Defender Industrial Robot": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03418-icon-service-Defender-Industrial-Robot.svg"
+    ],
+    "Azure Defender Meter": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03419-icon-service-Defender-Meter.svg"
+    ],
+    "Azure Defender PLC": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03420-icon-service-Defender-PLC.svg"
+    ],
+    "Azure Defender Pneumatic Device": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03421-icon-service-Defender-Pneumatic-Device.svg"
+    ],
+    "Azure Defender Programable Board": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03422-icon-service-Defender-Programable-Board.svg"
+    ],
+    "Azure Defender Relay": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03423-icon-service-Defender-Relay.svg"
+    ],
+    "Azure Defender RTU": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03424-icon-service-Defender-RTU.svg"
+    ],
+    "Azure HDI AKS Cluster": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03468-icon-service-HDI-AKS-Cluster.svg"
+    ],
+    "Azure Monitor Health Models": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03528-icon-service-Monitor-Health-Models.svg"
+    ],
+    "Azure WAC Installer": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/03563-icon-service-WAC-Installer.svg"
+    ],
+    "Azure Azure A": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/10018-icon-service-Azure-A.svg"
+    ],
+    "Azure Edge Management": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/10117-icon-service-Edge-Management.svg"
+    ],
+    "Azure Azure Sphere": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/10190-icon-service-Azure-Sphere.svg"
+    ],
+    "Azure Exchange On Premises Access": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/10334-icon-service-Exchange-On-Premises-Access.svg"
+    ],
+    "Azure WAC": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/10355-icon-service-WAC.svg"
+    ],
+    "Azure AzureAttestation": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/10422-icon-service-AzureAttestation.svg"
+    ],
+    "Azure RTOS": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/10778-icon-service-RTOS.svg"
+    ],
+    "Azure Web Jobs": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/other/10846-icon-service-Web-Jobs.svg"
+    ],
+    "Azure Detonation": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/security/00378-icon-service-Detonation.svg"
+    ],
+    "Azure Microsoft Defender for IoT": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/security/02247-icon-service-Microsoft-Defender-for-IoT.svg"
+    ],
+    "Azure Microsoft Defender EASM": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/security/03336-icon-service-Microsoft-Defender-EASM.svg"
+    ],
+    "Azure Identity Secure Score": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/security/03340-icon-service-Identity-Secure-Score.svg"
+    ],
+    "Azure Entra Identity Risky Signins": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/security/03341-icon-service-Entra-Identity-Risky-Signins.svg"
+    ],
+    "Azure Entra Identity Risky Users": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/security/03342-icon-service-Entra-Identity-Risky-Users.svg"
+    ],
+    "Azure Multifactor Authentication": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/security/03344-icon-service-Multifactor-Authentication.svg"
+    ],
+    "Azure Conditional Access": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/security/10233-icon-service-Conditional-Access.svg"
+    ],
+    "Azure Microsoft Defender for Cloud": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/security/10241-icon-service-Microsoft-Defender-for-Cloud.svg"
+    ],
+    "Azure Application Security Groups": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/security/10244-icon-service-Application-Security-Groups.svg"
+    ],
+    "Azure Key Vaults": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/security/10245-icon-service-Key-Vaults.svg"
+    ],
+    "Azure Azure Sentinel": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/security/10248-icon-service-Azure-Sentinel.svg"
+    ],
+    "Azure ExtendedSecurityUpdates": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/security/10572-icon-service-ExtendedSecurityUpdates.svg"
+    ],
+    "Azure Azure HCP Cache": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/storage/00776-icon-service-Azure-HCP-Cache.svg"
+    ],
+    "Azure Storage Actions": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/storage/03502-icon-service-Storage-Actions.svg"
+    ],
+    "Azure Managed File Shares": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/storage/03549-icon-service-Managed-File-Shares.svg"
+    ],
+    "Azure Storage Accounts": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/storage/10086-icon-service-Storage-Accounts.svg"
+    ],
+    "Azure Storage Accounts (Classic)": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/storage/10087-icon-service-Storage-Accounts-%28Classic%29.svg"
+    ],
+    "Azure Data Lake Storage Gen1": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/storage/10090-icon-service-Data-Lake-Storage-Gen1.svg"
+    ],
+    "Azure Storage Explorer": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/storage/10091-icon-service-Storage-Explorer.svg"
+    ],
+    "Azure StorSimple Data Managers": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/storage/10092-icon-service-StorSimple-Data-Managers.svg"
+    ],
+    "Azure Storage Sync Services": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/storage/10093-icon-service-Storage-Sync-Services.svg"
+    ],
+    "Azure Azure NetApp Files": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/storage/10096-icon-service-Azure-NetApp-Files.svg"
+    ],
+    "Azure Data Share Invitations": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/storage/10097-icon-service-Data-Share-Invitations.svg"
+    ],
+    "Azure Data Shares": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/storage/10098-icon-service-Data-Shares.svg"
+    ],
+    "Azure Import Export Jobs": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/storage/10100-icon-service-Import-Export-Jobs.svg"
+    ],
+    "Azure Azure Fileshares": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/storage/10400-icon-service-Azure-Fileshares.svg"
+    ],
+    "Azure Static Apps": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/web/01007-icon-service-Static-Apps.svg"
+    ],
+    "Azure API Center": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/web/03291-icon-service-API-Center.svg"
+    ],
+    "Azure App Space": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/web/03397-icon-service-App-Space.svg"
+    ],
+    "Azure App Space Component": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/web/03595-icon-service-App-Space-Component.svg"
+    ],
+    "Azure SignalR": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/web/10052-icon-service-SignalR.svg"
+    ],
+    "Azure Azure Media Service": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/icons/web/10309-icon-service-Azure-Media-Service.svg"
+    ]
+}

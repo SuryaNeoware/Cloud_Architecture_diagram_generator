@@ -1,0 +1,650 @@
+{
+    "Access-Context-Manager": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Access-Context-Manager.svg"
+    ],
+    "Administration": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Administration.svg"
+    ],
+    "Advanced-Agent-Modeling": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Advanced-Agent-Modeling.svg"
+    ],
+    "Advanced-Solutions-Lab": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Advanced-Solutions-Lab.svg"
+    ],
+    "Agent-Assist": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Agent-Assist.svg"
+    ],
+    "AI-Hub": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/AI-Hub.svg"
+    ],
+    "AI-Platform-Unified": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/AI-Platform-Unified.svg"
+    ],
+    "AI-Platform": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/AI-Platform.svg"
+    ],
+    "Analytics-Hub": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Analytics-Hub.svg"
+    ],
+    "Anthos-Config-Management": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Anthos-Config-Management.svg"
+    ],
+    "Anthos-Service-Mesh": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Anthos-Service-Mesh.svg"
+    ],
+    "Anthos": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Anthos.svg"
+    ],
+    "API-Analytics": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/API-Analytics.svg"
+    ],
+    "API-Monetization": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/API-Monetization.svg"
+    ],
+    "API": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/API.svg"
+    ],
+    "Apigee-API-Platform": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Apigee-API-Platform.svg"
+    ],
+    "Apigee-Sense": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Apigee-Sense.svg"
+    ],
+    "App-Engine": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/App-Engine.svg"
+    ],
+    "Artifact-Registry": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Artifact-Registry.svg"
+    ],
+    "Asset-Inventory": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Asset-Inventory.svg"
+    ],
+    "Assured-Workloads": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Assured-Workloads.svg"
+    ],
+    "AutoML-Natural-Language": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/AutoML-Natural-Language.svg"
+    ],
+    "AutoML-Tables": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/AutoML-Tables.svg"
+    ],
+    "AutoML-Translation": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/AutoML-Translation.svg"
+    ],
+    "AutoML-Video-Intelligence": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/AutoML-Video-Intelligence.svg"
+    ],
+    "AutoML-Vision": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/AutoML-Vision.svg"
+    ],
+    "AutoML": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/AutoML.svg"
+    ],
+    "Bare-Metal-Solutions": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Bare-Metal-Solutions.svg"
+    ],
+    "Batch": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Batch.svg"
+    ],
+    "Beyondcorp": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Beyondcorp.svg"
+    ],
+    "BigQuery": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/BigQuery.svg"
+    ],
+    "Bigtable": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Bigtable.svg"
+    ],
+    "Billing": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Billing.svg"
+    ],
+    "Binary-Authorization": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Binary-Authorization.svg"
+    ],
+    "Catalog": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Catalog.svg"
+    ],
+    "Certificate-Authority-Service": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Certificate-Authority-Service.svg"
+    ],
+    "Certificate-Manager": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Certificate-Manager.svg"
+    ],
+    "Cloud-API-Gateway": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-API-Gateway.svg"
+    ],
+    "Cloud-APIs": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-APIs.svg"
+    ],
+    "Cloud-Armor": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Armor.svg"
+    ],
+    "Cloud-Asset-Inventory": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Asset-Inventory.svg"
+    ],
+    "Cloud-Audit-Logs": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Audit-Logs.svg"
+    ],
+    "Cloud-Build": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Build.svg"
+    ],
+    "Cloud-CDN": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-CDN.svg"
+    ],
+    "Cloud-Code": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Code.svg"
+    ],
+    "Cloud-Composer": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Composer.svg"
+    ],
+    "Cloud-Data-Fusion": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Data-Fusion.svg"
+    ],
+    "Cloud-Deploy": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Deploy.svg"
+    ],
+    "Cloud-Deployment-Manager": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Deployment-Manager.svg"
+    ],
+    "Cloud-DNS": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-DNS.svg"
+    ],
+    "Cloud-Domains": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Domains.svg"
+    ],
+    "Cloud-EKM": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-EKM.svg"
+    ],
+    "Cloud-Endpoints": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Endpoints.svg"
+    ],
+    "Cloud-External-IP-Addresses": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-External-IP-Addresses.svg"
+    ],
+    "Cloud-Firewall-Rules": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Firewall-Rules.svg"
+    ],
+    "Cloud-For-Marketing": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-For-Marketing.svg"
+    ],
+    "Cloud-Functions": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Functions.svg"
+    ],
+    "Cloud-Generic": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Generic.svg"
+    ],
+    "Cloud-GPU": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-GPU.svg"
+    ],
+    "Cloud-Healthcare-API": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Healthcare-API.svg"
+    ],
+    "Cloud-Healthcare-Marketplace": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Healthcare-Marketplace.svg"
+    ],
+    "Cloud-HSM": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-HSM.svg"
+    ],
+    "Cloud-IDS": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-IDS.svg"
+    ],
+    "Cloud-Inference-API": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Inference-API.svg"
+    ],
+    "Cloud-Interconnect": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Interconnect.svg"
+    ],
+    "Cloud-Jobs-API": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Jobs-API.svg"
+    ],
+    "Cloud-Load-Balancing": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Load-Balancing.svg"
+    ],
+    "Cloud-Logging": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Logging.svg"
+    ],
+    "Cloud-Media-Edge": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Media-Edge.svg"
+    ],
+    "Cloud-Monitoring": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Monitoring.svg"
+    ],
+    "Cloud-NAT": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-NAT.svg"
+    ],
+    "Cloud-Natural-Language-API": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Natural-Language-API.svg"
+    ],
+    "Cloud-Network": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Network.svg"
+    ],
+    "Cloud-Ops": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Ops.svg"
+    ],
+    "Cloud-Optimization-AI---Fleet-Routing-API": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Optimization-AI---Fleet-Routing-API.svg"
+    ],
+    "Cloud-Optimization-AI": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Optimization-AI.svg"
+    ],
+    "Cloud-Router": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Router.svg"
+    ],
+    "Cloud-Routes": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Routes.svg"
+    ],
+    "Cloud-Run-For-Anthos": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Run-For-Anthos.svg"
+    ],
+    "Cloud-Run": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Run.svg"
+    ],
+    "Cloud-Scheduler": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Scheduler.svg"
+    ],
+    "Cloud-Security-Scanner": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Security-Scanner.svg"
+    ],
+    "Cloud-Shell": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Shell.svg"
+    ],
+    "Cloud-Spanner": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Spanner.svg"
+    ],
+    "Cloud-SQL": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-SQL.svg"
+    ],
+    "Cloud-Storage": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Storage.svg"
+    ],
+    "Cloud-Tasks": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Tasks.svg"
+    ],
+    "Cloud-Test-Lab": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Test-Lab.svg"
+    ],
+    "Cloud-TPU": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-TPU.svg"
+    ],
+    "Cloud-Translation-API": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Translation-API.svg"
+    ],
+    "Cloud-Vision-API": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-Vision-API.svg"
+    ],
+    "Cloud-VPN": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Cloud-VPN.svg"
+    ],
+    "Compute-Engine": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Compute-Engine.svg"
+    ],
+    "Configuration-Management": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Configuration-Management.svg"
+    ],
+    "Connectivity-Test": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Connectivity-Test.svg"
+    ],
+    "Connectors": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Connectors.svg"
+    ],
+    "Contact-Center-AI": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Contact-Center-AI.svg"
+    ],
+    "Container-Optimized-OS": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Container-Optimized-OS.svg"
+    ],
+    "Container-Registry": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Container-Registry.svg"
+    ],
+    "Data-Catalog": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Data-Catalog.svg"
+    ],
+    "Data-Labeling": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Data-Labeling.svg"
+    ],
+    "Data-Layers": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Data-Layers.svg"
+    ],
+    "Data-Loss-Prevention-API": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Data-Loss-Prevention-API.svg"
+    ],
+    "Data-QnA": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Data-QnA.svg"
+    ],
+    "Data-Studio": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Data-Studio.svg"
+    ],
+    "Data-Transfer": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Data-Transfer.svg"
+    ],
+    "Database-Migration-Service": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Database-Migration-Service.svg"
+    ],
+    "Dataflow": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Dataflow.svg"
+    ],
+    "Datalab": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Datalab.svg"
+    ],
+    "Dataplex": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Dataplex.svg"
+    ],
+    "Datapol": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Datapol.svg"
+    ],
+    "Dataprep": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Dataprep.svg"
+    ],
+    "Dataproc-Metastore": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Dataproc-Metastore.svg"
+    ],
+    "Dataproc": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Dataproc.svg"
+    ],
+    "Datashare": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Datashare.svg"
+    ],
+    "Datastore": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Datastore.svg"
+    ],
+    "Datastream": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Datastream.svg"
+    ],
+    "Debugger": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Debugger.svg"
+    ],
+    "Developer-Portal": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Developer-Portal.svg"
+    ],
+    "Dialogflow-CX": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Dialogflow-CX.svg"
+    ],
+    "Dialogflow-Insights": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Dialogflow-Insights.svg"
+    ],
+    "Dialogflow": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Dialogflow.svg"
+    ],
+    "Document-AI": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Document-AI.svg"
+    ],
+    "Early-Access-Center": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Early-Access-Center.svg"
+    ],
+    "Error-Reporting": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Error-Reporting.svg"
+    ],
+    "Eventarc": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Eventarc.svg"
+    ],
+    "Filestore": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Filestore.svg"
+    ],
+    "Financial-Services-Marketplace": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Financial-Services-Marketplace.svg"
+    ],
+    "Firestore": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Firestore.svg"
+    ],
+    "Fleet-Engine": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Fleet-Engine.svg"
+    ],
+    "Free-Trial": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Free-Trial.svg"
+    ],
+    "Game-Servers": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Game-Servers.svg"
+    ],
+    "GCE-Systems-Management": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/GCE-Systems-Management.svg"
+    ],
+    "Genomics": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Genomics.svg"
+    ],
+    "GKE-On-prem": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/GKE-On-prem.svg"
+    ],
+    "Google-Cloud-Marketplace": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Google-Cloud-Marketplace.svg"
+    ],
+    "Google-Kubernetes-Engine": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Google-Kubernetes-Engine.svg"
+    ],
+    "Google-Maps-Platform": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Google-Maps-Platform.svg"
+    ],
+    "Healthcare-NLP-API": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Healthcare-NLP-API.svg"
+    ],
+    "Home": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Home.svg"
+    ],
+    "Identity-And-Access-Management": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Identity-And-Access-Management.svg"
+    ],
+    "Identity-Aware-Proxy": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Identity-Aware-Proxy.svg"
+    ],
+    "Identity-Platform": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Identity-Platform.svg"
+    ],
+    "Iot-Core": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Iot-Core.svg"
+    ],
+    "Iot-Edge": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Iot-Edge.svg"
+    ],
+    "Key-Access-Justifications": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Key-Access-Justifications.svg"
+    ],
+    "Key-Management-Service": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Key-Management-Service.svg"
+    ],
+    "Kuberun": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Kuberun.svg"
+    ],
+    "Launcher": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Launcher.svg"
+    ],
+    "Local-SSD": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Local-SSD.svg"
+    ],
+    "Looker": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Looker.svg"
+    ],
+    "Managed-Service-For-Microsoft-Active-Directory": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Managed-Service-For-Microsoft-Active-Directory.svg"
+    ],
+    "Media-Translation-API": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Media-Translation-API.svg"
+    ],
+    "Memorystore": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Memorystore.svg"
+    ],
+    "Migrate-For-Anthos": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Migrate-For-Anthos.svg"
+    ],
+    "Migrate-For-Compute-Engine": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Migrate-For-Compute-Engine.svg"
+    ],
+    "My-Cloud": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/My-Cloud.svg"
+    ],
+    "Network-Connectivity-Center": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Network-Connectivity-Center.svg"
+    ],
+    "Network-Intelligence-Center": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Network-Intelligence-Center.svg"
+    ],
+    "Network-Security": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Network-Security.svg"
+    ],
+    "Network-Tiers": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Network-Tiers.svg"
+    ],
+    "Network-Topology": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Network-Topology.svg"
+    ],
+    "Onboarding": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Onboarding.svg"
+    ],
+    "OS-Configuration-Management": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/OS-Configuration-Management.svg"
+    ],
+    "OS-Inventory-Management": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/OS-Inventory-Management.svg"
+    ],
+    "OS-Patch-Management": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/OS-Patch-Management.svg"
+    ],
+    "Partner-Interconnect": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Partner-Interconnect.svg"
+    ],
+    "Partner-Portal": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Partner-Portal.svg"
+    ],
+    "Performance-Dashboard": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Performance-Dashboard.svg"
+    ],
+    "Permissions": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Permissions.svg"
+    ],
+    "Persistent-Disk": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Persistent-Disk.svg"
+    ],
+    "Phishing-Protection": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Phishing-Protection.svg"
+    ],
+    "Policy-Analyzer": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Policy-Analyzer.svg"
+    ],
+    "Premium-Network-Tier": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Premium-Network-Tier.svg"
+    ],
+    "Private-Connectivity": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Private-Connectivity.svg"
+    ],
+    "Private-Service-Connect": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Private-Service-Connect.svg"
+    ],
+    "Producer-Portal": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Producer-Portal.svg"
+    ],
+    "Profiler": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Profiler.svg"
+    ],
+    "Project": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Project.svg"
+    ],
+    "PubSub": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/PubSub.svg"
+    ],
+    "Quantum-Engine": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Quantum-Engine.svg"
+    ],
+    "Quotas": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Quotas.svg"
+    ],
+    "Real-world-Insights": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Real-world-Insights.svg"
+    ],
+    "Recommendations-AI": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Recommendations-AI.svg"
+    ],
+    "Release-Notes": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Release-Notes.svg"
+    ],
+    "Retail-API": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Retail-API.svg"
+    ],
+    "Risk-Manager": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Risk-Manager.svg"
+    ],
+    "Runtime-Config": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Runtime-Config.svg"
+    ],
+    "Secret-Manager": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Secret-Manager.svg"
+    ],
+    "Security-Command-Center": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Security-Command-Center.svg"
+    ],
+    "Security-Health-Advisor": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Security-Health-Advisor.svg"
+    ],
+    "Security-Key-Enforcement": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Security-Key-Enforcement.svg"
+    ],
+    "Security": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Security.svg"
+    ],
+    "Service-Discovery": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Service-Discovery.svg"
+    ],
+    "Speech-To-Text": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Speech-To-Text.svg"
+    ],
+    "Stackdriver": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Stackdriver.svg"
+    ],
+    "Standard-Network-Tier": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Standard-Network-Tier.svg"
+    ],
+    "Stream-Suite": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Stream-Suite.svg"
+    ],
+    "Support": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Support.svg"
+    ],
+    "Tensorflow-Enterprise": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Tensorflow-Enterprise.svg"
+    ],
+    "Text-To-Speech": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Text-To-Speech.svg"
+    ],
+    "Tools-For-Powershell": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Tools-For-Powershell.svg"
+    ],
+    "Trace": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Trace.svg"
+    ],
+    "Traffic-Director": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Traffic-Director.svg"
+    ],
+    "Transfer-Appliance": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Transfer-Appliance.svg"
+    ],
+    "Transfer": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Transfer.svg"
+    ],
+    "User-Preferences": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/User-Preferences.svg"
+    ],
+    "Vertex-AI": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Vertex-AI.svg"
+    ],
+    "Video-Intelligence-API": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Video-Intelligence-API.svg"
+    ],
+    "Virtual-Private-Cloud": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Virtual-Private-Cloud.svg"
+    ],
+    "Visual-Inspection": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Visual-Inspection.svg"
+    ],
+    "VMware-Engine": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/VMware-Engine.svg"
+    ],
+    "Web-Risk": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Web-Risk.svg"
+    ],
+    "Web-Security-Scanner": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Web-Security-Scanner.svg"
+    ],
+    "Workflows": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Workflows.svg"
+    ],
+    "Workload-Identity-Pool": [
+        "https://raw.githubusercontent.com/SuryaNeoware/cloud_icons/main/icon_set/gcp_icons/svg/Workload-Identity-Pool.svg"
+    ]
+}

@@ -1,0 +1,91 @@
+[drawio]
+generate_xml = """
+You are an expert at generating .drawio.xml scripts with PRECISE icon usage.
+When given a diagram description, you will generate a complete, valid XML script that can be imported directly into draw.io.
+
+Generate a comprehensive .drawio.xml script for the following description:
+{description}
+
+Use these icon guidelines for multi-cloud environments:
+1. **AWS Icons**: Use the provided SVG icons for AWS resources or placeholders styled with AWS-specific branding.
+2. **Azure Icons**: Use the provided SVG icons for Azure resources or placeholders styled with Azure-specific branding.
+3. **GCP Icons**: Use the provided SVG icons for GCP resources or placeholders styled with GCP-specific branding.
+4. **Custom/Undefined Icons**: Use neutral placeholders styled as simple rectangles labeled with the component's name. These can be replaced later.
+
+Follow these principles:
+
+### Diagram Generation Guidelines:
+1. **Icon Selection**:
+   - Match icons to component types where possible, supporting AWS, Azure, and GCP resources.
+   - Use placeholders for missing or undefined icons with clear, minimal styling.
+
+   FORMATTING REQUIREMENTS:
+   - Generate XML with proper indentation
+   - Use consistent, readable XML formatting
+   - Ensure XML is easily parseable
+
+2. **Component Creation** (<mxCell> for vertices):
+   - Use precise icons with appropriate styles:
+     - AWS: shape=image;aspect=fixed;image=[aws_icon_path];
+     - Azure: shape=image;aspect=fixed;image=[azure_icon_path];
+     - GCP: shape=image;aspect=fixed;image=[gcp_icon_path];
+     - Other icons: shape=rectangle;whiteSpace=wrap;html=1;fillColor=#ffffff;
+     - Center-align the component labels and position them BELOW the icons.
+   - Apply distinct fill colors to differentiate components.
+   - Use this style template:
+     ```
+     style="shape=image;image=[EXACT_ICON_NAME]";
+            fillColor=[service_color];
+            strokeColor=#ffffff;
+            fontColor=#232F3E;
+            verticalLabelPosition=bottom;
+            verticalAlign=top;
+            align=center;
+            html=1;
+            aspect=fixed"
+     ```
+
+3. ICON PLACEMENT REQUIREMENT:
+- Include the FULL icon URL in the style attribute
+- Format: style="shape=image;aspect=fixed;image=FULL_ICON_URL;
+
+4. **Diagram Structure**:
+   - Arrange components hierarchically.
+   - Create clear connections using orthogonal edges by default.
+   - Avoid overlapping components and maintain spacing of at least 100px between them.
+   - Position components logically to aid understanding.
+
+5. **Connector Guidelines:
+         1. Use rounded connectors
+         2. Maintain consistent spacing between components
+         3. Avoid direct overlapping lines
+         4. Round the edges slightly for smoother look
+         5. Use a clean, professional color for connections
+
+         XML Style Example:
+         ```xml
+         <mxCell style="edgeStyle=orthogonalEdgeStyle;
+                        rounded=1;
+                        orthogonalLoop=1;
+                        jettySize=auto;
+                        exitX=0.5;
+                        exitY=1;
+                        entryX=0.5;
+                        entryY=0;"
+         />
+         
+6. **XML Requirements**:
+   - Generate valid, fully-formed draw.io XML.
+   - Include complete diagram metadata, ensuring all `<root>` and `<mxCell>` tags are properly closed.
+   - Ensure every `<mxCell>` with `vertex="1"` includes a corresponding `<mxGeometry>` with valid `x`, `y`, `width`, `height` attributes.
+   - Edge-style connections must include `<mxGeometry relative="1" as="geometry"/>`.
+
+7. **Validation and Testing**:
+   - Ensure the XML passes validation checks.
+   - If importing into draw.io fails, adjust default attributes or styles to maintain compatibility.
+
+### Additional Notes:
+- If positions are not specified, use a grid layout with 100px spacing.
+- Use default values for unspecified metadata fields.
+- Verify the import process into draw.io after generation to confirm correctness.
+"""
