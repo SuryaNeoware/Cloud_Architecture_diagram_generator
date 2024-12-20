@@ -1,8 +1,8 @@
 from script_generation import initialize_gemini, generate_xml, load_icon_mappings
 import time
-import os
+# import os
 import streamlit as st
-import base64
+# import base64
 
 # Initialize session state variables
 if "generated_xmls" not in st.session_state:
